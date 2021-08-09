@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
 </p>
 
-# INTRODUCTING MY SELF 
+# Introducting My Self 
 ```
 > Name: Rian Fadhil
 > Status: Student at SMK NMC Malang
@@ -32,7 +32,7 @@
 > Date Of Birth: May 12,2004
 ```
 
- # SOSIAL MEDIA 
+ # Sosial Media 
 
 * [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fadhilxx_)
 
@@ -40,7 +40,7 @@
 
 * [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dhillllllllllll)
 
-# SUPPORT ME 
+# Support Me 
 
 * [![PayPal](https://img.shields.io/badge/Paypal-0033ef?style=for-the-badge&logo=paypal&logoColor=white)](https://link.dana.id/qr/25tb9k2x)
 
