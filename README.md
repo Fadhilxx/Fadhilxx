@@ -6,13 +6,9 @@
 <img src="https://i.ibb.co/d76g6Xt/DhilxBoT.jpg" width="80%" alt="API Giphy logo"/>
 </p>
 
-- 🌱 I’m currently learning *Website Biasa*.
-- 👀 I'm currently focusing on *Nggawe kegabutanku*.
-- 🔭 I’m currently working on [`Fadhilxx`](https://github.com/Fadhilxx/) 
+# <h1 align="center">This is my place to make something i want.</h1>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="60000px">
-
-# Want To Learn About
+# <h1 align="center">Want To Learn About</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -23,16 +19,7 @@
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
 </p>
 
-# Introducting My Self 
-```
-> Name: Rian Fadhil
-> Status: Student at SMK NMC Malang
-> Address: Malang, Jawa Timur, Inodonesia
-> Age: 17 Years Old
-> Date Of Birth: May 12,2004
-```
-
- # Sosial Media 
+# <h1 align="center"> Sosial Media </h1>
 
 * [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fadhilxx_)
 
@@ -40,11 +27,11 @@
 
 * [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dhillllllllllll)
 
-# Support Me 
+# <h1 align="center"> Support Me </h1>
 
 * [![PayPal](https://img.shields.io/badge/Paypal-0033ef?style=for-the-badge&logo=paypal&logoColor=white)](https://link.dana.id/qr/25tb9k2x)
 
-# Hmmmm~
+### Hmmmm~
 <p align="center">
   <a href="https://github.com/Fadhilxx"><img src="https://github-readme-stats.vercel.app/api?username=Fadhilxx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
@@ -53,11 +40,7 @@
   <a href="https://github.com/Fadhilxx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadhilxx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FadhildevX" />
-</p>
 
-# 
 
 <!--
 **Fadhilxx/Fadhilxx** is a 🔥 _special_ 🔥 repository because its `README.md` (this file) appears on your GitHub profile.
