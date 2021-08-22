@@ -6,9 +6,9 @@
 <img src="https://i.ibb.co/d76g6Xt/DhilxBoT.jpg" width="80%" alt="API Giphy logo"/>
 </p>
 
-# <h1 align="center">This is my place to make something i want.</h1>
+### <p align="center">This is my place to make something i want.</p>
 
-# <h1 align="center">Want To Learn About</h1>
+### <p align="center">Want To Learn About</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
 </p>
 
-# <h1 align="center"> Sosial Media </h1>
+## <p align="center"> Sosial Media </p>
 
 * [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fadhilxx_)
 
