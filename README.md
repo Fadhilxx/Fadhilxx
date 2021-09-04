@@ -14,7 +14,7 @@
   <a href="https://github.com/Fadhilxx"><img title="Github" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=github" /></a>
   <a href="https://instagram.com/fadhil.capital"><img title="Instagram" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=instagram" /></a>
   <a href="https://youtube.com/c/FADHILCAPITAL"><img title="YouTube" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=youtube" /></a>
-  <a href="tiktok.com/@fcxz_"><img title="TikTok" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=tiktok" /></a>
+  <a href="https://tiktok.com/@fcxz_"><img title="TikTok" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=tiktok" /></a>
   <a href="https://t.me/Dhillllllllllll"><img title="Telegram" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=telegram" /></a>
   <a href="https://discord.gg/McbMAjRYU7"><img title="Discord" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=discord" /></a>
 </p>
