@@ -1,12 +1,23 @@
 # <h1 align="center">やあみんな<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Hello I'm Fadhilxx</h1>
 
-<p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=Fadhilxx alt=Fadhilxx/> </p>
-
 <p align="center">
-<img src="https://i.ibb.co/d76g6Xt/DhilxBoT.jpg" width="80%" alt="API Giphy logo"/>
+<img src="https://i.ibb.co/ZJDr4Lr/Kentang-Joged.webp" width="80%" alt="API Giphy logo"/>
 </p>
 
 ### <p align="center">This is my place to make something i want.</p>
+
+<p align="center">
+<a href="##"><img title="fadhilxx" src="https://img.shields.io/static/v1?label=package&message=I'mFadhilx&color=red"></a>
+<a href="#"><img title="botwa" src="https://img.shields.io/static/v1?label=CREATOR&message=XtrictBot&color=red"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Fadhilxx"><img title="Github" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://instagram.com/fadhil.capital"><img title="Instagram" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://youtube.com/c/FADHILCAPITAL"><img title="YouTube" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=youtube" /></a>
+  <a href="tiktok.com/@fcxz_"><img title="TikTok" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=tiktok" /></a>
+  <a href="https://t.me/Dhillllllllllll"><img title="Telegram" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://discord.gg/McbMAjRYU7"><img title="Discord" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=discord" /></a>
+</p>
 
 ### <p align="center">Want To Learn About</p>
 <p align="center">
@@ -18,29 +29,6 @@
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
 </p>
-
-## <p align="center"> Sosial Media </p>
-
-* [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fadhilxx_)
-
-* [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895612458445)
-
-* [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dhillllllllllll)
-
-# <h1 align="center"> Support Me </h1>
-
-* [![PayPal](https://img.shields.io/badge/Paypal-0033ef?style=for-the-badge&logo=paypal&logoColor=white)](https://link.dana.id/qr/25tb9k2x)
-
-### Hmmmm~
-<p align="center">
-  <a href="https://github.com/Fadhilxx"><img src="https://github-readme-stats.vercel.app/api?username=Fadhilxx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Fadhilxx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadhilxx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-</p>
-
-
 
 <!--
 **Fadhilxx/Fadhilxx** is a 🔥 _special_ 🔥 repository because its `README.md` (this file) appears on your GitHub profile.
