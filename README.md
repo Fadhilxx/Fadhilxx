@@ -7,8 +7,8 @@
 ### <p align="center">This is my place to make something i want.</p>
 
 <p align="center">
-<a href="##"><img title="fadhilxx" src="https://img.shields.io/static/v1?label=package&message=I'mFadhilx&color=red"></a>
-<a href="#"><img title="botwa" src="https://img.shields.io/static/v1?label=CREATOR&message=XtrictBot&color=red"></a>
+<a href="#"><img title="fadhilxx" src="https://img.shields.io/static/v1?label=It'sMe&message=Fadhil Capital&color=red"></a>
+<a href="https://wa.me/994401804462?text=!help"><img title="botwa" src="https://img.shields.io/static/v1?label=Creator&message=Xtrict Bot&color=red"></a>
 </p>
 <p align="center">
   <a href="https://github.com/Fadhilxx"><img title="Github" src="https://img.shields.io/badge/FADHIL-red.svg?style=for-the-badge&logo=github" /></a>
